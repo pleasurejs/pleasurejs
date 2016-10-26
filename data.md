@@ -1,3 +1,8 @@
+
+##What it has & What it does
+* Function with arguments
+* Arrays
+
 ###Requirement of Model
 * Add todos
 * Delete todos
@@ -67,6 +72,6 @@ Testing delete todo
 ```javascript
 deleteTodo("wake up at 5 AM");
 ```
-
+We cant fulfill the other requirements straight away as we are passing string as item to addTodo and deleteTodo function. We need something else. Objects!
 
 
