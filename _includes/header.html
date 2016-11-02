@@ -2,7 +2,14 @@
 
   <div class="wrapper">
 
-    <a class="site-title" href="{{ "/" | relative_url}}">{{ site.title | escape }}</a>
+    <a class="site-title" href="{{ "/" | relative_url}}">
+        <span class="title-part1">
+            Pleasure
+        </span>
+        <span class="title-part2">
+            JS
+        </span>
+      </a>
 
     <nav class="site-nav">
       <span class="menu-icon">
@@ -14,7 +21,8 @@
       </span>
 
       <div class="trigger">
-        {% for my_page in site.pages %}
+        {% assign sorted_pages = site.pages | sort:"order" %}
+        {% for my_page in sorted_pages %}
           {% if my_page.title %}
           <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
           {% endif %}
