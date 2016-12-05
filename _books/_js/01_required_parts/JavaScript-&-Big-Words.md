@@ -25,11 +25,11 @@ Because JavaScript is one of the most demanding programming language today.
 
 JavaScript is the language of browser. So you can create any of your imaginations in JavaScript and run it on the browser. Using JavaScript you can create web, desktop and mobile applications.
 
-You can use JavaScript to control your laptop, phone, TV, and the servers that power the internet. But you can use JavaScript in hardwares too. Yes! the projects like [Espruino](https://www.espruino.com/)
+You can use JavaScript to control your laptop, phone, TV, and the servers that power the internet. But you can use JavaScript in hardwares too. Yes! the projects like [Espruino](https://www.espruino.com/).
 
 JavaScript is everywhere, I mean if you are using Google mail application, JavaScript is there. Its even getting used in YouTube, Linked in, Facebook and many more applications out there.
 
-This might excite you to start your JS journey.
+This might excite you to start your JavaScript journey.
 
 So using JavaScript you can interact with your users, draw graphics right into the web pages, play audio and video files and lot more. Lets move on and start this journey.
 
