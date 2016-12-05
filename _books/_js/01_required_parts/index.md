@@ -1,6 +1,6 @@
 # JavaScript - Required Parts
 
-* JavaScript & Big Words(JavaScript-&-Big-Words.md)
+* [JavaScript & Big Words](JavaScript-&-Big-Words.md)
 * Building the Foundation
 * Arrays
 * Objects
