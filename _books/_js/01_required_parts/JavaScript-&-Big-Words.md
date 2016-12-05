@@ -29,7 +29,7 @@ You can use JavaScript to control your laptop, phone, TV, and the servers that p
 
 JavaScript is everywhere, I mean if you are using Google mail application, JavaScript is there. Its even getting used in YouTube, Linked in, Facebook and many more applications out there.
 
-This might excite you to start your JavaScript journey.
+So using JavaScript you can interact with your users, draw graphics right into the web pages, play audio and video files and lot more.
 
-So using JavaScript you can interact with your users, draw graphics right into the web pages, play audio and video files and lot more. Lets move on and start this journey.
+This might excite you to start your JavaScript journey. Lets move on and start this journey.
 
