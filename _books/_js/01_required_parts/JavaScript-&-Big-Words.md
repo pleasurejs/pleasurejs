@@ -35,15 +35,15 @@ This might excite you to start your JavaScript journey. Lets move on and start t
 
 ##How JavaScript Works?
 
-We know JavaScript is the language of browser. Its one of the key player used while creating web, mobile or desktop applications. But its not alone, there are two more players who plays vital role in JavaScript development.
+We know JavaScript is the language of browser. Its one of the key player used while creating web, mobile or desktop applications. But its not alone, there are two more players who play vital role in JavaScript development.
 
 Who are they? You might already know them.
 
 They are HTML and CSS.
 
-We use HTML to create the FACE of the application, we call it UI, using which a user can interact with the application. HTML stands for HyperText Markup Language which helps us to create text, images, links, lists, tables and much more. I mean the entire view for our application.
+We use HTML to create the FACE of the application, we call it UI, using which a user can interact with the application. HTML stands for HyperText Markup Language which helps us in creating text, images, links, lists, tables and much more. I mean the entire view for our application.
 
-The second player, CSS. We use CSS or Cascading Style Sheets to decorate our HTML pages with colors, fonts, borders, backgrounds and much more. We can use CSS to layout our application. I mean it helps in where to place out HTML ellements on the page. Like on left side or right side or center of the page.
+The second player, CSS. We use CSS or Cascading Style Sheets to decorate our HTML pages with colors, fonts, borders, backgrounds and much more. We can use CSS to layout our application. I mean it helps in where to place our HTML elements on the page. Like on left side or right side or center of the page.
 
 JavaScript, you already know adds life to your HTML pages. We use JavaScript to add behaviors to our pages. If you want to validate HTML form on the fly, use JavaScript. You want to load your friends list from Facebook, use JavaScript. You want to draw something like Picasso on the page, use JavaScript. You can use JavaScript to create your own Super Angry Bird game. Almost everything dynamic can be achieved using JavaScript.
 
@@ -51,3 +51,21 @@ So we use triangle of these three technologies to make our dream web or mobile a
 
 Enough talk! Now lets dive into the world of JavaScript and see how it works.
 
+Lets create a Hello JavaScript program.
+
+Start with the first player, HTML. I have created a simple HTML page having no elements on it. Its just a blank page.
+
+```html
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Hello JavaScript</title>
+</head>
+
+<body>
+
+</body>
+</html>
+```
