@@ -53,7 +53,7 @@ Enough talk! Now lets dive into the world of JavaScript and see how it works.
 
 Lets create a "Hello JavaScript" program.
 
-We will use Plunker throught this book to write our programs - [Plunker](https://plnkr.co/)(https://plnkr.co/).
+We will use Plunker throught this book to write our programs - [Plunker](https://plnkr.co/) (https://plnkr.co/).
 
 ![Plunker](images/image2.JPG "Plunker")
 
