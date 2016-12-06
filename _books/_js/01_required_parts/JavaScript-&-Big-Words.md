@@ -53,8 +53,13 @@ Enough talk! Now lets dive into the world of JavaScript and see how it works.
 
 Lets create a "Hello JavaScript" program.
 
-We will use Plunker throught this book to write our programs - [Plunker](https://plnkr.co/).
-Launch the above link in the browser and click on Launch the Editor button.
+We will use Plunker throught this book to write our programs - [Plunker](https://plnkr.co/)(https://plnkr.co/).
+
+![Plunker](images/image2.JPG "Plunker")
+
+Click on the __Launch the Editor__ button to launch the Plunker code editor.
+
+![Plunker Editor](images/image3.JPG "Plunker Editor")
 
 You will get the default HTML page created by Plunker. Just replace the code with below HTML snippet.
 
@@ -106,4 +111,12 @@ Lets say Hello to JavaScript using __alert__ function.
 </script>
 ```
 
-When you run this using __Run__ button in Plunker. You will see following output in the browser.
+When you run this using __Run__ button in Plunker.
+
+![Hello JavaScript](images/image4.JPG "Hello JavaScript")
+
+You will see following output in the browser.
+
+![Hello JavaScript](images/image1.JPG "Hello JavaScript")
+
+
