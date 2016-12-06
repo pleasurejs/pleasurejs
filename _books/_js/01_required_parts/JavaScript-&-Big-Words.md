@@ -51,9 +51,12 @@ So we use triangle of these three technologies to make our dream web or mobile a
 
 Enough talk! Now lets dive into the world of JavaScript and see how it works.
 
-Lets create a Hello JavaScript program.
+Lets create a "Hello JavaScript" program.
 
-Start with the first player, HTML. I have created a simple HTML page having no elements on it. Its just a blank page.
+We will use Plunker throught this book to write our programs - [Plunker](https://plnkr.co/).
+Launch the above link in the browser and click on Launch the Editor button.
+
+You will get the default HTML page created by Plunker. Just replace the code with below HTML snippet.
 
 ```html
 <!doctype html>
@@ -69,3 +72,38 @@ Start with the first player, HTML. I have created a simple HTML page having no e
 </body>
 </html>
 ```
+
+We got our first key player, HTML in place. We dont need CSS in this case as it really simple program. Lets focus on JavaScript.
+
+To add life to this page we write JavaScript inside SCRIPT tags. I have added a SCRIPT tag inside HEAD tag:
+
+```html
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Hello JavaScript</title>
+  <!-- script block to write JavaScript -->
+  <script>
+    <!-- Write your JavaScript here -->
+  </script>
+</head>
+
+<body>
+
+</body>
+</html>
+```
+
+Lets say Hello to JavaScript using __alert__ function. 
+
+> Dont worry if __function__ sounds new to you, we will discuss it in more details later. 
+
+```html
+<script>
+  alert('Hello from JavaScript!');
+</script>
+```
+
+When you run this using __Run__ button in Plunker. You will see following output in the browser.
