@@ -33,3 +33,21 @@ So using JavaScript you can interact with your users, draw graphics right into t
 
 This might excite you to start your JavaScript journey. Lets move on and start this journey.
 
+##How JavaScript Works?
+
+We know JavaScript is the language of browser. Its one of the key player used while creating web, mobile or desktop applications. But its not alone, there are two more players who plays vital role in JavaScript development.
+
+Who are they? You might already know them.
+
+They are HTML and CSS.
+
+We use HTML to create the FACE of the application, we call it UI, using which a user can interact with the application. HTML stands for HyperText Markup Language which helps us to create text, images, links, lists, tables and much more. I mean the entire view for our application.
+
+The second player, CSS. We use CSS or Cascading Style Sheets to decorate our HTML pages with colors, fonts, borders, backgrounds and much more. We can use CSS to layout our application. I mean it helps in where to place out HTML ellements on the page. Like on left side or right side or center of the page.
+
+JavaScript, you already know adds life to your HTML pages. We use JavaScript to add behaviors to our pages. If you want to validate HTML form on the fly, use JavaScript. You want to load your friends list from Facebook, use JavaScript. You want to draw something like Picasso on the page, use JavaScript. You can use JavaScript to create your own Super Angry Bird game. Almost everything dynamic can be achieved using JavaScript.
+
+So we use triangle of these three technologies to make our dream web or mobile application.
+
+Enough talk! Now lets dive into the world of JavaScript and see how it works.
+
