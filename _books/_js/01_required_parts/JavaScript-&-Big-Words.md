@@ -133,11 +133,53 @@ When it comes to read the SCRIPT tag, it continues to execute the code inside sc
 </script>
 ```
 
-Browsers not only read the code, but it compiles the code on the fly using advanced compilation techniques.
+Browsers not only interpret or read the code, but it compiles the code on the fly using advanced compilation techniques.
 
 This code only works in the lifetime of this page. So if this page is open in one of the tab of the browser, its not going to work in other tabs. If this tab is closed the code is gone.
 
 So you need to add behaviors to your HTML page, add the SCRIPT tags and write the JavaScript into it and your page will be reborn to walk, run and enjoy.
+
+##How Browser Interprets JavaScript Code?
+
+As I told you before the code written in SCRIPT tags is interpreted and compiled by the browser. So nothing is happening automatically but the browser is doing the magic behind the scenes.
+
+```html
+<script>
+  alert('Hello from JavaScript!');
+</script>
+```
+
+Computers do not understand plain english statements. We need to convert them into the language of computer, the __BINARY__ form. Binary means 0 and 1.
+
+In mid 1980's computer programs were written in binary something like this.
+
+00110001 00000000 00000000
+00110001 00000001 00000001
+00110011 00000001 00000010
+01010001 00001011 00000010
+00100010 00000010 00001000
+01000011 00000001 00000000
+01000001 00000001 00000001
+00010000 00000010 00000000
+01100010 00000000 00000000
+
+This is the program which adds numbers from 1 to 10 and output the result.
+
+The programmers were using punch cards to feed these binaries.
+
+Writing complex programs is like a nightmare for programmers. Even writing simple programs required much cleverness and descipline.
+
+So we needed so abstractions for these 0's and 1's. We need a simple way to write these programs.
+
+But we know computers are not good at handling the language we speak. So we need a tool which can translate the human friendly text into binary form which computers understand.
+
+That tool is called a compiler which converts plain english text into binary form. And the browsers have one which converts the JavaScript code into binary code.
+
+So we can write our JavaScript code in text editor of our choice inside SCRIPT block and when we run that code into the browser, browser calls up a man called __Compiler__ which interprets and compiles the JavaScript code line by line and converts it into streams of 0's and 1's.
+
+Those 0's and 1's gives us the output of popup saying "Hello from JavaScript!" to us.
+
+JavaScript language helps us in writing code in human readable text. But every language got some rules or grammar to write text. JavaScript do have that grammar which we need to understand to write these complex programs of our choice. Lets move on and understand the grammar of JavaScript.
 
 
 
