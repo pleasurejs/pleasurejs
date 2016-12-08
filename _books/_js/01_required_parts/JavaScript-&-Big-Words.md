@@ -119,4 +119,25 @@ You will see following output in the browser.
 
 ![Hello JavaScript](images/image1.JPG "Hello JavaScript")
 
+You can see a small dialog box saying "Hello from JavaScript!", which is coming automatically when we load this page. I took no action to have this dialog box. I didnt write any HTML or CSS to pop this up at the top of the browser. All of this magic is done by two script tags and the code written between those tags.
+
+So the next question is how this is working?
+
+When this HTML page is loaded, browser start reading the HTML file from top to bottom, left to right. It will start reading from the HTML tag, then the HEAD tag and so on.
+
+When it comes to read the SCRIPT tag, it continues to execute the code inside script tags.
+
+```html
+<script>
+  alert('Hello from JavaScript!');
+</script>
+```
+
+Browsers not only read the code, but it compiles the code on the fly using advanced compilation techniques.
+
+This code only works in the lifetime of this page. So if this page is open in one of the tab of the browser, its not going to work in other tabs. If this tab is closed the code is gone.
+
+So you need to add behaviors to your HTML page, add the SCRIPT tags and write the JavaScript into it and your page will be reborn to walk, run and enjoy.
+
+
 
